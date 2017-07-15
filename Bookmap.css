@@ -1,0 +1,78 @@
+img, h5, h1, p, body, div,table
+			{
+				margin: 5px;
+				padding-right: 30px;
+				padding-bottom: 5px;
+				padding-left: 30px;
+				padding-top: 5px;
+			}
+			#image
+			{
+				float:left;
+			}
+			#box
+			{
+				position: absolute;
+				display: inline;
+				left: 850px;
+				top: 230px;
+				height: 400px;
+				width: 200px;
+				text-align: justify;
+				background-color: grey;
+				
+			}
+			.tab th a
+			{
+				display: inline;
+				margin: 0px;
+				padding-right: 30px;
+				padding-bottom: 5px;
+				padding-left: 30px;
+				padding-top: 5px;
+
+			}
+			.anchor
+			{
+				text-decoration: none;
+				color: white;
+
+			}
+			#one
+			{
+				background-color: darkblue;
+				position: fixed;
+				z-index: +1; 
+				width: 100%;
+				padding: 5px;
+			}
+			div table tr th
+			{
+				display: inline;
+				padding: 80px;
+			}
+			#two
+			{
+				background-color: yellow;
+				padding: 30px;
+				margin-top: 20px;
+			}
+			#four
+			{
+				background-color: yellow;
+				margin: 0px;
+				padding: 0px;
+			}
+			#three
+			{
+				background-color: #ffffb3;
+				margin: 0px;
+				text-align: "center";
+			}
+			h3
+			{
+				color: #99004d;
+				text-align: center;
+			}
+		
+			
